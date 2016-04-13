@@ -1,0 +1,31 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <com.unorganised.views.CustomAutoCompleteTextView
+        android:id="@+id/atv_places"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/search_service_area_hint_message"
+        android:singleLine="true"
+        android:imeOptions="actionDone"
+        android:textColorHint="@android:color/black" />
+
+    <FrameLayout
+        android:id="@+id/maps_layout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@id/atv_places" >
+
+
+        <LinearLayout
+            android:id="@+id/location_map_container"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_gravity="top"
+            android:orientation="horizontal" />
+
+    </FrameLayout>
+
+</RelativeLayout>

@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/splash"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:orientation="vertical">
+
+        <ImageView
+            android:layout_width="146dp"
+            android:layout_height="146dp"
+            android:layout_gravity="center"
+            android:contentDescription="@string/splash_logo_desc"
+            android:src="@drawable/splash_logo" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="@dimen/text_bottom_margin"
+            android:layout_marginTop="@dimen/text_top_margin"
+            android:gravity="center"
+            android:text="@string/what_is_unorganised"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textColor="@color/yellow"
+            android:textStyle="bold" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="@dimen/fullname_top_margin"
+            android:layout_marginLeft="@dimen/text_left_margin"
+            android:layout_marginRight="@dimen/text_right_margin"
+            android:gravity="center"
+            android:text="@string/unorganised_text" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/bottom_buttons_layout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="@dimen/un_organised_margin"
+        android:orientation="vertical">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginBottom="@dimen/un_organised_padding"
+            android:text="@string/info_registration"/>
+        <Button
+            android:id="@+id/call_us_btn_id"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="@dimen/un_organised_margin"
+            android:layout_gravity="center"
+            android:background="@drawable/button_call_us"
+            android:textColor="@android:color/white" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal" >
+
+
+            <Button
+                android:id="@+id/register_btn_id"
+                android:layout_width="0dp"
+                android:layout_height="50dp"
+                android:layout_margin="@dimen/un_organised_margin"
+                android:layout_weight="1"
+                android:background="@drawable/yellow_button_selector"
+                android:text="@string/register_small"
+                android:textColor="@color/green"
+                android:textStyle="bold" />
+
+            <Button
+                android:id="@+id/login_btn_id"
+                android:layout_width="0dp"
+                android:layout_height="50dp"
+                android:layout_margin="@dimen/un_organised_margin"
+                android:layout_weight="1"
+                android:background="@drawable/green_button_selector"
+                android:text="@string/login"
+                android:textColor="@color/yellow"
+                android:textStyle="bold" />
+        </LinearLayout>
+
+
+
+    </LinearLayout>
+
+</RelativeLayout>

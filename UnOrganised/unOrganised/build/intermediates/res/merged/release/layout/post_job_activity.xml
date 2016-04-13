@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/bg_gray"
+    android:orientation="vertical" >
+
+    <RelativeLayout
+        android:id="@+id/job_provider_title_layout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:orientation="vertical" >
+
+        <!-- TODO:Need to add back arrow if required -->
+
+        <TextView
+            android:id="@+id/job_provider_title_id"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/titlbar"
+            android:gravity="center_vertical|center_horizontal"
+            android:text="@string/post_job"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textColor="@color/yellow"
+            android:textStyle="bold" />
+    </RelativeLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/job_provider_title_layout"
+        android:layout_centerHorizontal="true"
+        android:layout_margin="@dimen/un_organised_margin"
+        android:layout_marginTop="16dp"
+        android:orientation="vertical" >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginTop="@dimen/activity_vertical_margin"
+            android:text="@string/provide_job_details"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textColor="@color/black"
+            android:textStyle="bold" />
+
+        <Spinner
+            android:id="@+id/sel_category_id"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/activity_vertical_margin"
+            style="@android:style/Widget.Holo.Light.Spinner"
+            android:prompt="@string/select_category" />
+
+
+        <!--<View
+            android:layout_width="fill_parent"
+            android:layout_height="1dp"
+            android:background="@android:color/darker_gray" />-->
+        <Spinner
+            android:id="@+id/sel_subcategory_id"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/activity_vertical_margin"
+            style="@android:style/Widget.Holo.Light.Spinner"
+            android:prompt="@string/select_sub_category" />
+
+       <!-- <View
+            android:layout_width="fill_parent"
+            android:layout_height="1dp"
+            android:background="@android:color/darker_gray" />-->
+
+        <EditText
+            android:id="@+id/job_details_id"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:layout_marginTop="@dimen/activity_vertical_margin"
+            android:background="#00000000"
+            android:hint="@string/job_details"
+            android:textColor="@color/black"
+            android:inputType="text"
+            android:maxLines="1" >
+        </EditText>
+
+        <View
+            android:layout_width="fill_parent"
+            android:layout_height="1dp"
+            android:background="@android:color/darker_gray" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal" >
+
+            <EditText
+                android:id="@+id/location_id"
+                android:layout_width="0dp"
+                android:layout_height="40dp"
+                android:layout_marginTop="@dimen/activity_vertical_margin"
+                android:layout_weight="1"
+                android:background="#00000000"
+                android:textColor="@color/black"
+                android:hint="@string/choose_location"
+                android:inputType="text"
+                android:maxLines="1"
+                android:editable="false"
+                android:enabled="false">
+            </EditText>
+
+            <ImageView
+                android:id="@+id/location_icon_id"
+                android:layout_width="25dp"
+                android:layout_height="25dp"
+                android:layout_gravity="bottom"
+                android:layout_marginBottom="2dp"
+                android:src="@drawable/icon_pin" />
+        </LinearLayout>
+
+        <View
+            android:layout_width="fill_parent"
+            android:layout_height="1dp"
+            android:background="@android:color/darker_gray" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal" >
+
+            <EditText
+                android:id="@+id/bidding_price_id"
+                android:layout_width="0dp"
+                android:layout_height="40dp"
+                android:layout_marginTop="@dimen/activity_vertical_margin"
+                android:layout_weight="1"
+                android:background="#00000000"
+                android:hint="@string/bidding_price"
+                android:textColor="@color/black"
+                android:inputType="number"
+                android:maxLines="1" >
+            </EditText>
+
+           <!-- <ImageView
+                android:id="@+id/bidding_icon_id"
+                android:layout_width="25dp"
+                android:layout_height="25dp"
+                android:layout_gravity="bottom"
+                android:layout_marginBottom="2dp"
+                android:src="@drawable/bidding_icon" />-->
+        </LinearLayout>
+
+        <View
+            android:layout_width="fill_parent"
+            android:layout_height="1dp"
+            android:background="@android:color/darker_gray" />
+
+        <Spinner
+            android:id="@+id/sel_payment_type_id"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/activity_vertical_margin"
+            style="@android:style/Widget.Holo.Light.Spinner"
+            android:prompt="@string/select_payment_type" />
+
+        <!--<View
+            android:layout_width="fill_parent"
+            android:layout_height="1dp"
+            android:background="@android:color/darker_gray" />-->
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_margin="@dimen/un_organised_padding" >
+
+        <Button
+            android:id="@+id/schedule_now_btn_id"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="@dimen/button_right_margin"
+            android:layout_weight="1"
+            android:background="@drawable/button_selector"
+            android:text="@string/schedule_now"
+            android:textColor="@color/yellow"
+            android:textStyle="bold" />
+
+        <Button
+            android:id="@+id/schedule_btn_id"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="@drawable/button_selector"
+            android:text="@string/schedule_later"
+            android:textColor="@color/yellow"
+            android:textStyle="bold" />
+    </LinearLayout>
+
+</RelativeLayout>
+

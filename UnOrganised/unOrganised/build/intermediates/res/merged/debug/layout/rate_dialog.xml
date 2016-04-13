@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/white">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="@dimen/un_organised_padding"
+        android:orientation="vertical"
+        android:gravity="center"
+        android:id="@+id/linearLayout">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:layout_marginTop="@dimen/text_top_margin"
+            android:layout_marginBottom="@dimen/text_bottom_margin"
+            android:textColor="@color/green"
+            android:text="@string/rate"/>
+        <View
+            android:layout_width="fill_parent"
+            android:layout_height="1dp"
+            android:background="@color/green" />
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/smile"
+            android:layout_marginTop="@dimen/text_top_margin"
+            android:layout_marginBottom="@dimen/text_top_margin" />
+
+        <RatingBar
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/ratingBar"
+            android:stepSize="1"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginBottom="@dimen/text_top_margin" />
+
+        <Button
+            android:id="@+id/ok_button_id"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="@dimen/un_organised_margin"
+            android:background="@drawable/btn_bg"
+            android:text="@string/next"
+            android:textColor="@color/yellow"
+            android:textStyle="bold" />
+
+</LinearLayout>
+
+
+</RelativeLayout>

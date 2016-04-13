@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_margin="@dimen/un_organised_margin"
+    android:background="@color/bg_gray">
+
+    <TextView
+        android:id="@+id/jobs_count_id"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="@dimen/un_organised_margin"
+        android:textColor="@color/black" />
+
+    <ListView
+        android:id="@+id/jobs_list_view"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/jobs_count_id"
+        android:divider="@null"
+        android:dividerHeight="10dp">
+
+    </ListView>
+
+</RelativeLayout>

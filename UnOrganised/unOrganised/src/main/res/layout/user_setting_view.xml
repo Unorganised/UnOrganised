@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="60dp"
+    android:layout_marginLeft="@dimen/un_organised_padding"
+    android:layout_marginRight="@dimen/un_organised_padding"
+    android:background="@color/white"
+    android:orientation="horizontal"
+    android:paddingBottom="@dimen/text_top_margin"
+    android:paddingTop="@dimen/text_top_margin">
+
+    <TextView
+        android:id="@+id/single_list_setting"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="start"
+        android:layout_marginLeft="@dimen/un_organised_padding"
+        android:gravity="center_horizontal|center_vertical"
+        android:textAppearance="?android:attr/textAppearanceSmall" />
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="end"
+        android:layout_marginRight="@dimen/un_organised_padding"
+        android:src="@drawable/white_arrow" />
+</FrameLayout>

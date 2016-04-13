@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/gray"
+    android:paddingBottom="@dimen/button_center_margin"
+    tools:context="com.unorganised.activities.UpdateBankInfoActivity">
+
+    <RelativeLayout
+        android:id="@+id/Info_title_layout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:orientation="vertical"
+        android:paddingBottom="@dimen/un_organised_padding">
+
+        <TextView
+
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/titlbar"
+            android:gravity="center_vertical|center_horizontal"
+            android:text="@string/edit_bank"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textColor="@color/yellow"
+            android:textStyle="bold" />
+    </RelativeLayout>
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/Info_title_layout"
+        android:layout_centerInParent="true"
+        android:layout_margin="@dimen/un_organised_margin"
+        android:orientation="vertical">
+
+        <EditText
+            android:id="@+id/acnt_no_id"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:layout_marginTop="@dimen/text_top_margin"
+            android:background="#00000000"
+            android:hint="@string/enter_accnt_number"
+            android:inputType="number"
+            android:maxLines="1"
+            android:singleLine="true" />
+
+        <requestFocus />
+
+        <View
+            android:layout_width="fill_parent"
+            android:layout_height="1dp"
+            android:background="@android:color/darker_gray" />
+
+        <EditText
+            android:id="@+id/re_enter_acnt_id"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:layout_marginTop="@dimen/activity_vertical_margin"
+            android:background="#00000000"
+            android:hint="@string/reenter_account_number"
+            android:inputType="number"
+            android:singleLine="true" />
+        <View
+            android:layout_width="fill_parent"
+            android:layout_height="1dp"
+            android:background="@android:color/darker_gray" />
+        <Spinner
+            android:id="@+id/sel_bank_id"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/activity_vertical_margin"
+            style="@android:style/Widget.Holo.Light.Spinner"
+            android:prompt="@string/select_bank_prompt" />
+
+        <EditText
+            android:id="@+id/sel_isfc_code_id"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:layout_marginTop="@dimen/activity_vertical_margin"
+            android:background="#00000000"
+            android:hint="@string/isfc_code"
+            android:maxLines="1"
+            android:singleLine="true" />
+
+        <View
+            android:layout_width="fill_parent"
+            android:layout_height="1dp"
+            android:background="@android:color/darker_gray" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="left"
+            android:layout_marginTop="@dimen/activity_vertical_margin"
+            android:text="@string/cancel_cheque_text"
+            android:textColor="@android:color/black" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/activity_vertical_margin"
+            android:orientation="horizontal">
+
+            <ImageView
+                android:id="@+id/cancelled_cheque_img_id"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginRight="5dp"
+                android:visibility="gone" />
+
+            <Button
+                android:id="@+id/cancelled_cheque_id"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/button_selector_upload"
+                android:text="@string/upload_cancel_cheque_text"
+                android:textColor="@color/green" />
+        </LinearLayout>
+
+
+    </LinearLayout>
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+
+        android:layout_alignParentBottom="true"
+        android:paddingLeft="@dimen/un_organised_padding"
+        android:paddingRight="@dimen/un_organised_padding">
+
+        <Button
+            android:id="@+id/edit"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="@dimen/button_right_margin"
+            android:layout_weight="1"
+            android:background="@drawable/button_selector"
+            android:text="@string/confirm_text"
+            android:textColor="@color/yellow"
+            android:textStyle="bold" />
+
+        <Button
+            android:id="@+id/cancel"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="@drawable/button_selector"
+            android:text="@string/cancel"
+            android:textColor="@color/yellow"
+            android:textStyle="bold" />
+    </LinearLayout>
+</RelativeLayout>

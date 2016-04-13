@@ -1,0 +1,1574 @@
+[
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\icon_individuals_normal.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\drawable-mdpi\\icon_individuals_normal.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_plusone_standard_off_client.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-plus\\8.3.0\\res\\drawable-mdpi\\ic_plusone_standard_off_client.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_nany_selected.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\drawable-mdpi\\ic_nany_selected.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_dataentry_selected.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\drawable-mdpi\\ic_dataentry_selected.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_pool_cleaner_selected.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\drawable-mdpi\\ic_pool_cleaner_selected.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_dress_iron.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\drawable-mdpi\\ic_dress_iron.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\icn_help_selected.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\drawable-mdpi\\icn_help_selected.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\common_google_signin_btn_text_light_normal.9.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.3.0\\res\\drawable-mdpi\\common_google_signin_btn_text_light_normal.9.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_others_selected.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\drawable-mdpi\\ic_others_selected.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_play_light.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\22.2.0\\res\\drawable-mdpi\\ic_play_light.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_water_proof.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\drawable-mdpi\\ic_water_proof.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_facility_manager.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\drawable-mdpi\\ic_facility_manager.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\icon_house_worker.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\drawable-mdpi\\icon_house_worker.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\common_google_signin_btn_icon_light_normal.9.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.3.0\\res\\drawable-mdpi\\common_google_signin_btn_icon_light_normal.9.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\register_button_selector.xml",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\drawable-mdpi\\register_button_selector.xml"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\icn_hobbies_select.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\drawable-mdpi\\icn_hobbies_select.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\quick_menu_icon.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\drawable-mdpi\\quick_menu_icon.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\icon_individuals_selected.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\drawable-mdpi\\icon_individuals_selected.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_pause_light.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\22.2.0\\res\\drawable-mdpi\\ic_pause_light.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\button_selector_upload.xml",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\drawable-mdpi\\button_selector_upload.xml"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\smile.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\drawable-mdpi\\smile.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_car_washing_selected.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\drawable-mdpi\\ic_car_washing_selected.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_lanudry.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\drawable-mdpi\\ic_lanudry.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_media_pause.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\22.2.0\\res\\drawable-mdpi\\ic_media_pause.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_btn_rating_star_off_mtrl_alpha.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-mdpi\\abc_btn_rating_star_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_yoga_selected.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\drawable-mdpi\\ic_yoga_selected.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\icon_tv_repair_selected.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\drawable-mdpi\\icon_tv_repair_selected.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\cash.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\drawable-mdpi\\cash.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_dress_iron_selected.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\drawable-mdpi\\ic_dress_iron_selected.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\icn_repair.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\drawable-mdpi\\icn_repair.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_menu_moreoverflow_mtrl_alpha.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-mdpi\\abc_ic_menu_moreoverflow_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\service_selector.xml",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\drawable-mdpi\\service_selector.xml"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_house_need.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\drawable-mdpi\\ic_house_need.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_driver.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\drawable-mdpi\\ic_driver.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\icon_plumber_selected.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\drawable-mdpi\\icon_plumber_selected.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_pest_control_selected.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\drawable-mdpi\\ic_pest_control_selected.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_setting_dark.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\22.2.0\\res\\drawable-mdpi\\ic_setting_dark.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_gardener_selected.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\drawable-mdpi\\ic_gardener_selected.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\common_plus_signin_btn_icon_light_disabled.9.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.3.0\\res\\drawable-mdpi\\common_plus_signin_btn_icon_light_disabled.9.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\invite_friends.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\drawable-mdpi\\invite_friends.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_fitness_selected.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\drawable-mdpi\\ic_fitness_selected.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\btn_blue_small.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\drawable-mdpi\\btn_blue_small.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\common_plus_signin_btn_text_light_normal.9.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.3.0\\res\\drawable-mdpi\\common_plus_signin_btn_text_light_normal.9.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_broacast.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\drawable-mdpi\\ic_broacast.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_btn_rating_star_on_mtrl_alpha.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-mdpi\\abc_btn_rating_star_on_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_media_route_on_2_mono_dark.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\22.2.0\\res\\drawable-mdpi\\ic_media_route_on_2_mono_dark.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\btn_yellow_small_selected.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\drawable-mdpi\\btn_yellow_small_selected.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\icn_dailyneeds_onselect.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\drawable-mdpi\\icn_dailyneeds_onselect.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\icon_pin.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\drawable-mdpi\\icon_pin.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_cast_off_light.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\22.2.0\\res\\drawable-mdpi\\ic_cast_off_light.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\edit_job.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\drawable-mdpi\\edit_job.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_fitness_001_selected.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\drawable-mdpi\\ic_fitness_001_selected.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\btn_large_blue_normal.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\drawable-mdpi\\btn_large_blue_normal.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ongoing_job_app_drawer_selected.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\drawable-mdpi\\ongoing_job_app_drawer_selected.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\loading3.gif",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\drawable-mdpi\\loading3.gif"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\btn_assign_job.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\drawable-mdpi\\btn_assign_job.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\icon_valet_parking.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\drawable-mdpi\\icon_valet_parking.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_btn_radio_to_on_mtrl_000.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-mdpi\\abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_maintantance.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\drawable-mdpi\\ic_maintantance.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\icon_job_pending.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\drawable-mdpi\\icon_job_pending.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\exit.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\drawable-mdpi\\exit.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\service_selecting.xml",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\drawable-mdpi\\service_selecting.xml"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-mdpi\\abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_waiter.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\drawable-mdpi\\ic_waiter.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_house_party_selected.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\drawable-mdpi\\ic_house_party_selected.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-mdpi\\abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\icon_cook_selected.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\drawable-mdpi\\icon_cook_selected.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\register_button_pressed.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\drawable-mdpi\\register_button_pressed.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\icn_accepted_jobs_selected.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\drawable-mdpi\\icn_accepted_jobs_selected.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\icon_tailer_selected.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\drawable-mdpi\\icon_tailer_selected.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\icon_waiting_application.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\drawable-mdpi\\icon_waiting_application.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_mechanic_selected.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\drawable-mdpi\\ic_mechanic_selected.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\icn_tailor_selected.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\drawable-mdpi\\icn_tailor_selected.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\icn_seeker.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\drawable-mdpi\\icn_seeker.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\icn_help_normal.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\drawable-mdpi\\icn_help_normal.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_spinner_mtrl_am_alpha.9.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-mdpi\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\service_un_selected_border.xml",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\drawable-mdpi\\service_un_selected_border.xml"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\icon_call.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\drawable-mdpi\\icon_call.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\icon_start_job.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\drawable-mdpi\\icon_start_job.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\common_plus_signin_btn_text_dark_disabled.9.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.3.0\\res\\drawable-mdpi\\common_plus_signin_btn_text_dark_disabled.9.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_btn_radio_to_on_mtrl_015.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-mdpi\\abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_water_proof_selected.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\drawable-mdpi\\ic_water_proof_selected.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\serach_job_app_drawer_selected.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\drawable-mdpi\\serach_job_app_drawer_selected.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\button_11_requestjob_callnow_normal.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\drawable-mdpi\\button_11_requestjob_callnow_normal.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\powered_by_google_dark.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\8.3.0\\res\\drawable-mdpi\\powered_by_google_dark.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\icn_provider.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\drawable-mdpi\\icn_provider.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\icon_payment_type_online.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\drawable-mdpi\\icon_payment_type_online.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\grayborder.xml",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\drawable-mdpi\\grayborder.xml"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\icon_house_worker_selected.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\drawable-mdpi\\icon_house_worker_selected.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_beauty_selected.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\drawable-mdpi\\ic_beauty_selected.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\btn_blue_small_pressed.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\drawable-mdpi\\btn_blue_small_pressed.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_tutor.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\drawable-mdpi\\ic_tutor.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_house_workers_selected.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\drawable-mdpi\\ic_house_workers_selected.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_list_selector_disabled_holo_light.9.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-mdpi\\abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\account_setting_app_drawer.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\drawable-mdpi\\account_setting_app_drawer.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\yellow_button_selector.xml",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\drawable-mdpi\\yellow_button_selector.xml"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_media_play.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\22.2.0\\res\\drawable-mdpi\\ic_media_play.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\icon_corporate_normal.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\drawable-mdpi\\icon_corporate_normal.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\location_pin_normal.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\drawable-mdpi\\location_pin_normal.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_dataentry.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\drawable-mdpi\\ic_dataentry.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\common_plus_signin_btn_text_light_focused.9.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.3.0\\res\\drawable-mdpi\\common_plus_signin_btn_text_light_focused.9.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\cast_ic_notification_on.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast\\8.3.0\\res\\drawable-mdpi\\cast_ic_notification_on.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\job_provider_selector.xml",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\drawable-mdpi\\job_provider_selector.xml"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\icon_homecare.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\drawable-mdpi\\icon_homecare.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\icon_logout.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\drawable-mdpi\\icon_logout.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-mdpi\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_house_workers.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\drawable-mdpi\\ic_house_workers.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\completed_job_app_drawer_selected.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\drawable-mdpi\\completed_job_app_drawer_selected.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\icon_plumber.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\drawable-mdpi\\icon_plumber.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\yellow_arrow.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\drawable-mdpi\\yellow_arrow.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\payment_information_app_drawer.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\drawable-mdpi\\payment_information_app_drawer.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\common_plus_signin_btn_text_light_disabled.9.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.3.0\\res\\drawable-mdpi\\common_plus_signin_btn_text_light_disabled.9.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_yoga.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\drawable-mdpi\\ic_yoga.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\icon_not_selected.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\drawable-mdpi\\icon_not_selected.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_home_care_selected.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\drawable-mdpi\\ic_home_care_selected.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\box_8_register_5_selected.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\drawable-mdpi\\box_8_register_5_selected.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\time.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\drawable-mdpi\\time.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\icn_subscribed_selected.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\drawable-mdpi\\icn_subscribed_selected.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\job_seeker_selector.xml",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\drawable-mdpi\\job_seeker_selector.xml"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_clear_mtrl_alpha.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-mdpi\\abc_ic_clear_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_sfa.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\drawable-mdpi\\ic_sfa.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_cast_light.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\22.2.0\\res\\drawable-mdpi\\ic_cast_light.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_list_pressed_holo_light.9.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-mdpi\\abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\common_plus_signin_btn_icon_dark_normal.9.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.3.0\\res\\drawable-mdpi\\common_plus_signin_btn_icon_dark_normal.9.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\common_google_signin_btn_text_dark_pressed.9.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.3.0\\res\\drawable-mdpi\\common_google_signin_btn_text_dark_pressed.9.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-mdpi\\abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\health_fitness.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\drawable-mdpi\\health_fitness.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_maintantance_selected.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\drawable-mdpi\\ic_maintantance_selected.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\icon_payment_type_cash.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\drawable-mdpi\\icon_payment_type_cash.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\common_google_signin_btn_icon_light_disabled.9.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.3.0\\res\\drawable-mdpi\\common_google_signin_btn_icon_light_disabled.9.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\icon_repair.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\drawable-mdpi\\icon_repair.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\list_selector.xml",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\drawable-mdpi\\list_selector.xml"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_pc_repair.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\drawable-mdpi\\ic_pc_repair.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_menu_share_mtrl_alpha.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-mdpi\\abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\icn_list_view.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\drawable-mdpi\\icn_list_view.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\login_button.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\drawable-mdpi\\login_button.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\icon_valet_parking_selected.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\drawable-mdpi\\icon_valet_parking_selected.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_cast_on_2_light.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\22.2.0\\res\\drawable-mdpi\\ic_cast_on_2_light.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_guitar.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\drawable-mdpi\\ic_guitar.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-mdpi\\abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\icn_wedding_onselect.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\drawable-mdpi\\icn_wedding_onselect.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\common_plus_signin_btn_text_light_pressed.9.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.3.0\\res\\drawable-mdpi\\common_plus_signin_btn_text_light_pressed.9.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_baby_sitter.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\drawable-mdpi\\ic_baby_sitter.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\edit_number_btn_pressed.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\drawable-mdpi\\edit_number_btn_pressed.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\common_plus_signin_btn_icon_dark_pressed.9.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.3.0\\res\\drawable-mdpi\\common_plus_signin_btn_icon_dark_pressed.9.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\loading2.gif",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\drawable-mdpi\\loading2.gif"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_btn_check_to_on_mtrl_015.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-mdpi\\abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\common_google_signin_btn_text_dark_disabled.9.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.3.0\\res\\drawable-mdpi\\common_google_signin_btn_text_dark_disabled.9.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\icon_payment_info_selected.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\drawable-mdpi\\icon_payment_info_selected.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\common_google_signin_btn_icon_light_pressed.9.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.3.0\\res\\drawable-mdpi\\common_google_signin_btn_icon_light_pressed.9.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_photographer_selected.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\drawable-mdpi\\ic_photographer_selected.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\custom_border.xml",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\drawable-mdpi\\custom_border.xml"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_pest_control.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\drawable-mdpi\\ic_pest_control.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\delete_job.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\drawable-mdpi\\delete_job.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\btn_stop_job.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\drawable-mdpi\\btn_stop_job.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_list_focused_holo.9.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-mdpi\\abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\icn_beauty_makeup_onselect.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\drawable-mdpi\\icn_beauty_makeup_onselect.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\bidding_icon.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\drawable-mdpi\\bidding_icon.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ongoing_job_app_drawer.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\drawable-mdpi\\ongoing_job_app_drawer.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\icon_current_location.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\drawable-mdpi\\icon_current_location.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\icn_subscribed_normal.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\drawable-mdpi\\icn_subscribed_normal.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\box_7_register_4_normal.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\drawable-mdpi\\box_7_register_4_normal.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_media_route_on_0_mono_dark.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\22.2.0\\res\\drawable-mdpi\\ic_media_route_on_0_mono_dark.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_popup_background_mtrl_mult.9.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-mdpi\\abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\common_google_signin_btn_text_light_disabled.9.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.3.0\\res\\drawable-mdpi\\common_google_signin_btn_text_light_disabled.9.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_fitness.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\drawable-mdpi\\ic_fitness.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\recent_notification_app_drawer.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\drawable-mdpi\\recent_notification_app_drawer.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_home_nurse_selected.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\drawable-mdpi\\ic_home_nurse_selected.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\location_pin_selected.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\drawable-mdpi\\location_pin_selected.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_piano.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\drawable-mdpi\\ic_piano.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\icon_photogrpaher_onselect.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\drawable-mdpi\\icon_photogrpaher_onselect.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_switch_track_mtrl_alpha.9.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-mdpi\\abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_pc_repair_selected.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\drawable-mdpi\\ic_pc_repair_selected.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\titlbar.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\drawable-mdpi\\titlbar.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\white_arrow.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\drawable-mdpi\\white_arrow.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_car_rental_selected.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\drawable-mdpi\\ic_car_rental_selected.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\icn_provider_onselect.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\drawable-mdpi\\icn_provider_onselect.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\online.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\drawable-mdpi\\online.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_car_mechanic.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\drawable-mdpi\\ic_car_mechanic.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\icon_tv_repair.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\drawable-mdpi\\icon_tv_repair.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_cast_on_light.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\22.2.0\\res\\drawable-mdpi\\ic_cast_on_light.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_carpenter_selected.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\drawable-mdpi\\ic_carpenter_selected.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_fitness_001.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\drawable-mdpi\\ic_fitness_001.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\icon_job_seeker_small.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\drawable-mdpi\\icon_job_seeker_small.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\register_button.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\drawable-mdpi\\register_button.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\btn_large_blue_selected.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\drawable-mdpi\\btn_large_blue_selected.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_sales_boy.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\drawable-mdpi\\ic_sales_boy.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_dog_walking_selected.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\drawable-mdpi\\ic_dog_walking_selected.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\icon_repair_selected.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\drawable-mdpi\\icon_repair_selected.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_painter.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\drawable-mdpi\\ic_painter.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_ambulance_selected.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\drawable-mdpi\\ic_ambulance_selected.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_mechanic.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\drawable-mdpi\\ic_mechanic.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_guitar_selected.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\drawable-mdpi\\ic_guitar_selected.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\checkbox_selector.xml",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\drawable-mdpi\\checkbox_selector.xml"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\date.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\drawable-mdpi\\date.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\cast_ic_notification_1.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast\\8.3.0\\res\\drawable-mdpi\\cast_ic_notification_1.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\common_google_signin_btn_text_light_focused.9.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.3.0\\res\\drawable-mdpi\\common_google_signin_btn_text_light_focused.9.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-mdpi\\abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\button_11_requestjob_callnow_selected.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\drawable-mdpi\\button_11_requestjob_callnow_selected.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-mdpi\\abc_ab_share_pack_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_media_route_disabled_mono_dark.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\22.2.0\\res\\drawable-mdpi\\ic_media_route_disabled_mono_dark.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_setting_light.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\22.2.0\\res\\drawable-mdpi\\ic_setting_light.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\dot_selected_screen.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\drawable-mdpi\\dot_selected_screen.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\icon_default_service_selected.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\drawable-mdpi\\icon_default_service_selected.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_car_washing.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\drawable-mdpi\\ic_car_washing.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_water_tanker.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\drawable-mdpi\\ic_water_tanker.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_bathroom_cleaning.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\drawable-mdpi\\ic_bathroom_cleaning.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_btn_check_to_on_mtrl_000.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-mdpi\\abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_carpenter.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\drawable-mdpi\\ic_carpenter.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_fabrication_selected.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\drawable-mdpi\\ic_fabrication_selected.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\add_job.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\drawable-mdpi\\add_job.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\edit_job_icon.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\drawable-mdpi\\edit_job_icon.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\common_plus_signin_btn_icon_light_normal.9.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.3.0\\res\\drawable-mdpi\\common_plus_signin_btn_icon_light_normal.9.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_media_route_on_1_mono_dark.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\22.2.0\\res\\drawable-mdpi\\ic_media_route_on_1_mono_dark.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_sound_service.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\drawable-mdpi\\ic_sound_service.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\request_job_selector.xml",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\drawable-mdpi\\request_job_selector.xml"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-mdpi\\abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\loading1.gif",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\drawable-mdpi\\loading1.gif"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-mdpi\\abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\icon_electrician.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\drawable-mdpi\\icon_electrician.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\edit_number_btn.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\drawable-mdpi\\edit_number_btn.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\icon_refrigarator_repair.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\drawable-mdpi\\icon_refrigarator_repair.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_list_pressed_holo_dark.9.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-mdpi\\abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_media_route_off_mono_dark.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\22.2.0\\res\\drawable-mdpi\\ic_media_route_off_mono_dark.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_cast_on_0_light.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\22.2.0\\res\\drawable-mdpi\\ic_cast_on_0_light.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_plusone_small_off_client.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-plus\\8.3.0\\res\\drawable-mdpi\\ic_plusone_small_off_client.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-mdpi\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\icon_app_drawer.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\drawable-mdpi\\icon_app_drawer.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\icon_search_bar.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\drawable-mdpi\\icon_search_bar.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_security_guard_selected.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\drawable-mdpi\\ic_security_guard_selected.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\icon_switch_user.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\drawable-mdpi\\icon_switch_user.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\notification_app_drawer_selected.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\drawable-mdpi\\notification_app_drawer_selected.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\icon_logout_selected.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\drawable-mdpi\\icon_logout_selected.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\icn_dailyneeds.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\drawable-mdpi\\icn_dailyneeds.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\button_selector.xml",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\drawable-mdpi\\button_selector.xml"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\app_icon_72x72.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\drawable-mdpi\\app_icon_72x72.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\default_profile_icon.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\drawable-mdpi\\default_profile_icon.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_sfa_selected.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\drawable-mdpi\\ic_sfa_selected.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_fabrication.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\drawable-mdpi\\ic_fabrication.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_movers_packers_selected.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\drawable-mdpi\\ic_movers_packers_selected.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\common_google_signin_btn_text_light_pressed.9.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.3.0\\res\\drawable-mdpi\\common_google_signin_btn_text_light_pressed.9.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_play_dark.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\22.2.0\\res\\drawable-mdpi\\ic_play_dark.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\serach_job_app_drawer.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\drawable-mdpi\\serach_job_app_drawer.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\powered_by_google_light.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\8.3.0\\res\\drawable-mdpi\\powered_by_google_light.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\icon_message.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\drawable-mdpi\\icon_message.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\location_marker.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\drawable-mdpi\\location_marker.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_waste_disposal.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\drawable-mdpi\\ic_waste_disposal.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_manson_selected.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\drawable-mdpi\\ic_manson_selected.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\common_google_signin_btn_icon_dark_focused.9.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.3.0\\res\\drawable-mdpi\\common_google_signin_btn_icon_dark_focused.9.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_media_route_on_mono_dark.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\22.2.0\\res\\drawable-mdpi\\ic_media_route_on_mono_dark.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\login_button_pressed.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\drawable-mdpi\\login_button_pressed.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_facility_manager_selected.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\drawable-mdpi\\ic_facility_manager_selected.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\common_plus_signin_btn_icon_dark_focused.9.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.3.0\\res\\drawable-mdpi\\common_plus_signin_btn_icon_dark_focused.9.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\mr_ic_audio_vol.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\22.2.0\\res\\drawable-mdpi\\mr_ic_audio_vol.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\icon_jobseeker_selected.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\drawable-mdpi\\icon_jobseeker_selected.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_painter_selected.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\drawable-mdpi\\ic_painter_selected.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_beauty.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\drawable-mdpi\\ic_beauty.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_photographer.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\drawable-mdpi\\ic_photographer.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_movers_packers.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\drawable-mdpi\\ic_movers_packers.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_dance_selected.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\drawable-mdpi\\ic_dance_selected.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\icon_pending_jobs_selected.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\drawable-mdpi\\icon_pending_jobs_selected.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_baby_sitter_selected.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\drawable-mdpi\\ic_baby_sitter_selected.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\text_circlelayout.xml",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\drawable-mdpi\\text_circlelayout.xml"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\icon_eventplaning_onselct.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\drawable-mdpi\\icon_eventplaning_onselct.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_house_party.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\drawable-mdpi\\ic_house_party.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\account_setting_app_drawer_selected.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\drawable-mdpi\\account_setting_app_drawer_selected.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\username_icon.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\drawable-mdpi\\username_icon.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\password_icon.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\drawable-mdpi\\password_icon.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\icn_tailor.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\drawable-mdpi\\icn_tailor.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\no_post.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\drawable-mdpi\\no_post.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\common_google_signin_btn_icon_dark_disabled.9.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.3.0\\res\\drawable-mdpi\\common_google_signin_btn_icon_dark_disabled.9.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_water_tanker_selected.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\drawable-mdpi\\ic_water_tanker_selected.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\dot_not_selected_screen.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\drawable-mdpi\\dot_not_selected_screen.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\icn_seeker_onselect.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\drawable-mdpi\\icn_seeker_onselect.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\icn_wedding.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\drawable-mdpi\\icn_wedding.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\common_plus_signin_btn_text_dark_normal.9.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.3.0\\res\\drawable-mdpi\\common_plus_signin_btn_text_dark_normal.9.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_home_care.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\drawable-mdpi\\ic_home_care.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_driver_selected.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\drawable-mdpi\\ic_driver_selected.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\icon_electrician_selected.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\drawable-mdpi\\icon_electrician_selected.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\checkbox_normal.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\drawable-mdpi\\checkbox_normal.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_list_divider_mtrl_alpha.9.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-mdpi\\abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_bathroom_cleaning_selected.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\drawable-mdpi\\ic_bathroom_cleaning_selected.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\icon_homecare_onselect.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\drawable-mdpi\\icon_homecare_onselect.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\icon_eventplaning.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\drawable-mdpi\\icon_eventplaning.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_car_rental.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\drawable-mdpi\\ic_car_rental.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\icn_hobbies.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\drawable-mdpi\\icn_hobbies.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\common_google_signin_btn_icon_light_focused.9.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.3.0\\res\\drawable-mdpi\\common_google_signin_btn_icon_light_focused.9.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-mdpi\\abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\common_google_signin_btn_text_dark_focused.9.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.3.0\\res\\drawable-mdpi\\common_google_signin_btn_text_dark_focused.9.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\payment_information_app_drawer_selected.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\drawable-mdpi\\payment_information_app_drawer_selected.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\common_plus_signin_btn_text_dark_focused.9.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.3.0\\res\\drawable-mdpi\\common_plus_signin_btn_text_dark_focused.9.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_go_search_api_mtrl_alpha.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-mdpi\\abc_ic_go_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_home_nurse.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\drawable-mdpi\\ic_home_nurse.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\btn_deassign_job.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\drawable-mdpi\\btn_deassign_job.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\common_plus_signin_btn_icon_light_pressed.9.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.3.0\\res\\drawable-mdpi\\common_plus_signin_btn_icon_light_pressed.9.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_sales_boy_selected.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\drawable-mdpi\\ic_sales_boy_selected.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\icn_repair_select.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\drawable-mdpi\\icn_repair_select.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\icon_camera.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\drawable-mdpi\\icon_camera.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_sound_service_selected.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\drawable-mdpi\\ic_sound_service_selected.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\loading0.gif",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\drawable-mdpi\\loading0.gif"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\common_full_open_on_phone.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.3.0\\res\\drawable-mdpi\\common_full_open_on_phone.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\icon_pending_job_normal.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\drawable-mdpi\\icon_pending_job_normal.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_welding_works.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\drawable-mdpi\\ic_welding_works.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_car_mechanic_selected.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\drawable-mdpi\\ic_car_mechanic_selected.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\notification_app_drawer.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\drawable-mdpi\\notification_app_drawer.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_pool_cleaner.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\drawable-mdpi\\ic_pool_cleaner.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_civil_worker.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\drawable-mdpi\\ic_civil_worker.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\share_icon.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\drawable-mdpi\\share_icon.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\icn_map_view.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\drawable-mdpi\\icn_map_view.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\common_google_signin_btn_icon_dark_normal.9.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.3.0\\res\\drawable-mdpi\\common_google_signin_btn_icon_dark_normal.9.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\common_plus_signin_btn_icon_light_focused.9.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.3.0\\res\\drawable-mdpi\\common_plus_signin_btn_icon_light_focused.9.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\common_google_signin_btn_icon_dark_pressed.9.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.3.0\\res\\drawable-mdpi\\common_google_signin_btn_icon_dark_pressed.9.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\service_selected_border.xml",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\drawable-mdpi\\service_selected_border.xml"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\login_blue_large.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\drawable-mdpi\\login_blue_large.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\splash.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\drawable-mdpi\\splash.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_gardener.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\drawable-mdpi\\ic_gardener.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\icon_marriage.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\drawable-mdpi\\icon_marriage.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\common_plus_signin_btn_text_dark_pressed.9.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.3.0\\res\\drawable-mdpi\\common_plus_signin_btn_text_dark_pressed.9.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_ambulance.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\drawable-mdpi\\ic_ambulance.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_plusone_medium_off_client.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-plus\\8.3.0\\res\\drawable-mdpi\\ic_plusone_medium_off_client.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\icon_job_provider_small.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\drawable-mdpi\\icon_job_provider_small.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\icon_search.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\drawable-mdpi\\icon_search.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_launcher.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_dog_walking.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\drawable-mdpi\\ic_dog_walking.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\icon_callus.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\drawable-mdpi\\icon_callus.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\icon_photogrpaher.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\drawable-mdpi\\icon_photogrpaher.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\recent_notification_app_drawer_selected.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\drawable-mdpi\\recent_notification_app_drawer_selected.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\icon_notification.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\drawable-mdpi\\icon_notification.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_waste_disposal_selected.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\drawable-mdpi\\ic_waste_disposal_selected.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_broacast_selected.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\drawable-mdpi\\ic_broacast_selected.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\cast_ic_notification_0.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast\\8.3.0\\res\\drawable-mdpi\\cast_ic_notification_0.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\health_fitness_onselct.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\drawable-mdpi\\health_fitness_onselct.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-mdpi\\abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\common_google_signin_btn_text_dark_normal.9.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.3.0\\res\\drawable-mdpi\\common_google_signin_btn_text_dark_normal.9.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\icon_corporate_selected.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\drawable-mdpi\\icon_corporate_selected.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_nany.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\drawable-mdpi\\ic_nany.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\icon_delete_job.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\drawable-mdpi\\icon_delete_job.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\icon_houseparty.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\drawable-mdpi\\icon_houseparty.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_voice_search_api_mtrl_alpha.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-mdpi\\abc_ic_voice_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_events_selected.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\drawable-mdpi\\ic_events_selected.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_plusone_tall_off_client.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-plus\\8.3.0\\res\\drawable-mdpi\\ic_plusone_tall_off_client.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_list_longpressed_holo.9.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-mdpi\\abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_events.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\drawable-mdpi\\ic_events.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_ab_back_mtrl_am_alpha.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-mdpi\\abc_ic_ab_back_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\icon_locate_job_seeker.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\drawable-mdpi\\icon_locate_job_seeker.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_tutor_selected.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\drawable-mdpi\\ic_tutor_selected.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\btn_bg.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\drawable-mdpi\\btn_bg.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\icn_accepted_jobs_normal.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\drawable-mdpi\\icn_accepted_jobs_normal.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\btn_red.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\drawable-mdpi\\btn_red.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_security_guard.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\drawable-mdpi\\ic_security_guard.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_cast_on_1_light.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\22.2.0\\res\\drawable-mdpi\\ic_cast_on_1_light.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-mdpi\\abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_pause_dark.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\22.2.0\\res\\drawable-mdpi\\ic_pause_dark.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\green_button_selector.xml",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\drawable-mdpi\\green_button_selector.xml"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\icon_default_service.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\drawable-mdpi\\icon_default_service.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\btn_yellow_small.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\drawable-mdpi\\btn_yellow_small.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_cast_disabled_light.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\22.2.0\\res\\drawable-mdpi\\ic_cast_disabled_light.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_list_selector_disabled_holo_dark.9.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-mdpi\\abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\button_call_us.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\drawable-mdpi\\button_call_us.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\tracking_marker.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\drawable-mdpi\\tracking_marker.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_waiter_selected.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\drawable-mdpi\\ic_waiter_selected.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\custom_border_welcome.xml",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\drawable-mdpi\\custom_border_welcome.xml"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\icon_cook.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\drawable-mdpi\\icon_cook.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_dance.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\drawable-mdpi\\ic_dance.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\icon_tailer.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\drawable-mdpi\\icon_tailer.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_lanudry_selected.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\drawable-mdpi\\ic_lanudry_selected.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\default_profile_pic.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\drawable-mdpi\\default_profile_pic.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\completed_job_app_drawer.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\drawable-mdpi\\completed_job_app_drawer.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-mdpi\\abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\icon_houseparty_onselect.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\drawable-mdpi\\icon_houseparty_onselect.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\checkbox_selected.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\drawable-mdpi\\checkbox_selected.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_civil_worker_selected.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\drawable-mdpi\\ic_civil_worker_selected.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\icon_back.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\drawable-mdpi\\icon_back.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_textfield_default_mtrl_alpha.9.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-mdpi\\abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_cast_dark.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\22.2.0\\res\\drawable-mdpi\\ic_cast_dark.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\border_layout.xml",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\drawable-mdpi\\border_layout.xml"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\box_7_register_4_selected.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\drawable-mdpi\\box_7_register_4_selected.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_piano_selected.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\drawable-mdpi\\ic_piano_selected.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\common_plus_signin_btn_icon_dark_disabled.9.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.3.0\\res\\drawable-mdpi\\common_plus_signin_btn_icon_dark_disabled.9.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\dial_icon.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\drawable-mdpi\\dial_icon.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\icn_beauty_makeup.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\drawable-mdpi\\icn_beauty_makeup.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_search_api_mtrl_alpha.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-mdpi\\abc_ic_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_house_need_selected.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\drawable-mdpi\\ic_house_need_selected.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\icon_refrigarator_repair_selected.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\drawable-mdpi\\icon_refrigarator_repair_selected.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_others.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\drawable-mdpi\\ic_others.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\logo_small.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\drawable-mdpi\\logo_small.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_manson.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\drawable-mdpi\\ic_manson.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\animate.xml",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\drawable-mdpi\\animate.xml"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_welding_works_selected.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\drawable-mdpi\\ic_welding_works_selected.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\icon_marriage_selected.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\drawable-mdpi\\icon_marriage_selected.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\cast_ic_notification_2.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast\\8.3.0\\res\\drawable-mdpi\\cast_ic_notification_2.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\icon_options_normal.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\drawable-mdpi\\icon_options_normal.png"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\splash_logo.png",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\drawable-mdpi\\splash_logo.png"
+    }
+]

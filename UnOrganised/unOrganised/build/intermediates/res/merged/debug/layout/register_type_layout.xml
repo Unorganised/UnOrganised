@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/gray"
+    android:orientation="vertical">
+    <include
+        android:id="@+id/title_layout"
+        layout="@layout/titlebar_layout" />
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="@dimen/un_organised_margin"
+        android:gravity="center_horizontal"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/fullname_top_margin"
+            android:text="@string/register_on"
+            android:gravity="center"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textColor="@color/black"
+            android:textStyle="bold"
+            android:layout_marginBottom="@dimen/fullname_top_margin"/>
+
+
+        <LinearLayout
+
+            android:id="@+id/layout_individual"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="@dimen/un_organised_margin"
+            android:background="@color/green">
+
+
+            <ImageView
+                android:id="@+id/individual_icon"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_margin="@dimen/text_top_margin"
+                android:src="@drawable/icon_individuals_selected" />
+
+            <View
+                android:id="@+id/individual_div_id"
+                android:layout_width="1dp"
+                android:layout_height="40dp"
+                android:layout_gravity="center"
+                android:layout_marginLeft="@dimen/button_left_margin"
+                android:layout_marginRight="@dimen/text_right_margin"
+                android:background="@android:color/white" />
+
+            <TextView
+                android:id="@+id/individual_text_id"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_marginLeft="@dimen/text_left_margin"
+                android:text="@string/individual"
+                android:textAllCaps="true"
+                android:textColor="@android:color/white"
+                android:textStyle="bold" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/layout_corporate"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="@dimen/un_organised_margin"
+            android:background="@color/white">
+
+            <ImageView
+                android:id="@+id/corporate_icon"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_margin="@dimen/text_top_margin"
+                android:src="@drawable/icon_corporate_normal" />
+
+            <View
+                android:id="@+id/corporate_div_id"
+                android:layout_width="1dp"
+                android:layout_height="40dp"
+                android:layout_gravity="center"
+                android:layout_marginLeft="@dimen/text_left_margin"
+                android:layout_marginRight="@dimen/text_right_margin"
+                android:background="@android:color/darker_gray" />
+
+            <TextView
+                android:id="@+id/corporate_text_id"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_marginLeft="@dimen/text_left_margin"
+                android:text="@string/corporate"
+                android:textAllCaps="true"
+                android:textColor="@android:color/black"
+                android:textStyle="bold" />
+        </LinearLayout>
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center|bottom"
+        android:layout_alignParentBottom="true"
+        android:layout_margin="@dimen/un_organised_padding"
+        android:orientation="vertical">
+ 
+        <Button
+            android:id="@+id/next_btn_id"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/button_selector"
+            android:gravity="center"
+            android:text="@string/next"
+            android:textColor="@color/yellow" />
+    </LinearLayout>
+</RelativeLayout>

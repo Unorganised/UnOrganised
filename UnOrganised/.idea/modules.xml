@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CustomBrowser-release/CustomBrowser-release.iml" filepath="$PROJECT_DIR$/CustomBrowser-release/CustomBrowser-release.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PayU-release/PayU-release.iml" filepath="$PROJECT_DIR$/PayU-release/PayU-release.iml" />
+      <module fileurl="file://$PROJECT_DIR$/UnOrganised.iml" filepath="$PROJECT_DIR$/UnOrganised.iml" />
+      <module fileurl="file://$PROJECT_DIR$/unOrganised/UnOrganised-UnOrganised.iml" filepath="$PROJECT_DIR$/unOrganised/UnOrganised-UnOrganised.iml" />
+      <module fileurl="file://$PROJECT_DIR$/googleplayservices_lib/googleplayservices_lib.iml" filepath="$PROJECT_DIR$/googleplayservices_lib/googleplayservices_lib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sdkui/sdkui.iml" filepath="$PROJECT_DIR$/sdkui/sdkui.iml" />
+    </modules>
+  </component>
+</project>

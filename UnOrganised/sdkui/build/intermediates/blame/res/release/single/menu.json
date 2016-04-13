@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\sdkui\\build\\intermediates\\res\\merged\\release\\menu\\menu_user_cards.xml",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\sdkui\\src\\main\\res\\menu\\menu_user_cards.xml"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\sdkui\\build\\intermediates\\res\\merged\\release\\menu\\menu_cash_card.xml",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\sdkui\\src\\main\\res\\menu\\menu_cash_card.xml"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\sdkui\\build\\intermediates\\res\\merged\\release\\menu\\menu_emi.xml",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\sdkui\\src\\main\\res\\menu\\menu_emi.xml"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\sdkui\\build\\intermediates\\res\\merged\\release\\menu\\menu_payments.xml",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\sdkui\\src\\main\\res\\menu\\menu_payments.xml"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\sdkui\\build\\intermediates\\res\\merged\\release\\menu\\menu_card.xml",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\sdkui\\src\\main\\res\\menu\\menu_card.xml"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\sdkui\\build\\intermediates\\res\\merged\\release\\menu\\menu_merchant_payment.xml",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\sdkui\\src\\main\\res\\menu\\menu_merchant_payment.xml"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\sdkui\\build\\intermediates\\res\\merged\\release\\menu\\menu_verify_api.xml",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\sdkui\\src\\main\\res\\menu\\menu_verify_api.xml"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\sdkui\\build\\intermediates\\res\\merged\\release\\menu\\menu_base.xml",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\sdkui\\src\\main\\res\\menu\\menu_base.xml"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\sdkui\\build\\intermediates\\res\\merged\\release\\menu\\menu_net_banking.xml",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\sdkui\\src\\main\\res\\menu\\menu_net_banking.xml"
+    }
+]

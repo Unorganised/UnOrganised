@@ -1,0 +1,53 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/gray" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:orientation="vertical"
+        android:layout_above="@+id/button_layout">
+
+        <include
+            android:id="@+id/title_layout"
+            layout="@layout/titlebar_layout"/>
+        <TextView
+		    android:id="@+id/no_data"
+		    android:layout_width="wrap_content"
+		    android:layout_height="wrap_content"
+		    android:textColor="@color/green"
+		    android:layout_gravity="center"
+            android:visibility="gone"/>
+        <ListView
+            android:id="@+id/list"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+    </LinearLayout>
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_alignParentBottom="true"
+    android:orientation="vertical"
+    android:id="@+id/button_layout">
+
+    <Button
+        android:id="@+id/add_service_btn_id"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="@dimen/un_organised_margin"
+        android:background="@drawable/button_selector"
+        android:text="@string/add_service"
+        android:textColor="@color/yellow" />
+    <Button
+        android:id="@+id/sub_service_next_btn_id"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="@dimen/un_organised_margin"
+        android:background="@drawable/button_selector"
+        android:text="@string/next"
+        android:textColor="@color/yellow" />
+</LinearLayout>
+</RelativeLayout>

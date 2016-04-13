@@ -1,0 +1,54 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/gray">
+    <LinearLayout
+        android:id="@+id/job_list_layout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+        <TextView
+            android:id="@+id/no_assigned_job"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:text="No Assigned Jobs"
+            android:textColor="@color/green"
+            android:textStyle="bold"
+            android:visibility="gone"
+            android:textAppearance="?android:textAppearanceLarge"/>
+
+        <ListView
+            android:id="@+id/assigned_list_id"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"/>
+    </LinearLayout>
+
+    <LinearLayout
+            android:id="@+id/accepted_job_main_layout"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+            <LinearLayout
+                android:id="@+id/sel_job_layout"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"/>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="@color/black"
+                android:layout_margin="@dimen/activity_vertical_margin"
+                android:textStyle="bold"
+                android:id="@+id/total_app_id" />
+        <LinearLayout
+            android:id="@+id/accepted_job_layout"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="@dimen/un_organised_padding"
+            android:orientation="vertical">
+
+        </LinearLayout>
+        </LinearLayout>
+
+</RelativeLayout>

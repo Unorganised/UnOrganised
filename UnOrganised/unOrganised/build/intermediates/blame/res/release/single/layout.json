@@ -1,0 +1,578 @@
+[
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\release\\layout\\netbanking_list_item.xml",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\exploded-aar\\UnOrganised\\sdkui\\unspecified\\res\\layout\\netbanking_list_item.xml"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\release\\layout\\single_list_item.xml",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\layout\\single_list_item.xml"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\release\\layout\\notification_template_big_media.xml",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\release\\layout\\emi_list_item.xml",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\exploded-aar\\UnOrganised\\sdkui\\unspecified\\res\\layout\\emi_list_item.xml"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\release\\layout\\subscribe_dialog.xml",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\layout\\subscribe_dialog.xml"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\release\\layout\\activity_location_google_map.xml",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\layout\\activity_location_google_map.xml"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\release\\layout\\activity_emi.xml",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\exploded-aar\\UnOrganised\\sdkui\\unspecified\\res\\layout\\activity_emi.xml"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\release\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\release\\layout\\accepted_jobs_list_row.xml",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\layout\\accepted_jobs_list_row.xml"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\release\\layout\\mainprogress.xml",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\exploded-aar\\UnOrganised\\CustomBrowser-release\\unspecified\\res\\layout\\mainprogress.xml"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\release\\layout\\subscibed_list_row.xml",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\layout\\subscibed_list_row.xml"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\release\\layout\\notification_template_part_chronometer.xml",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\release\\layout\\completed_job_details.xml",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\layout\\completed_job_details.xml"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\release\\layout\\splash_activity.xml",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\layout\\splash_activity.xml"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\release\\layout\\payment_dialog.xml",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\layout\\payment_dialog.xml"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\release\\layout\\dialog_cvv.xml",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\exploded-aar\\UnOrganised\\sdkui\\unspecified\\res\\layout\\dialog_cvv.xml"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\release\\layout\\abc_dialog_title_material.xml",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\release\\layout\\accepted_jobs_fragment.xml",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\layout\\accepted_jobs_fragment.xml"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\release\\layout\\select_dialog_multichoice_material.xml",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\release\\layout\\abc_activity_chooser_view.xml",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\release\\layout\\abc_list_menu_item_icon.xml",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\release\\layout\\abc_search_view.xml",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\release\\layout\\notification_template_media.xml",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\release\\layout\\abc_action_bar_title_item.xml",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\release\\layout\\job_provider_dashboard_activity.xml",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\layout\\job_provider_dashboard_activity.xml"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\release\\layout\\seeker_drawer_list_row.xml",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\layout\\seeker_drawer_list_row.xml"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\release\\layout\\maps_fragment.xml",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\layout\\maps_fragment.xml"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\release\\layout\\search_job_fragment.xml",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\layout\\search_job_fragment.xml"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\release\\layout\\provider_dashboard_activity.xml",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\layout\\provider_dashboard_activity.xml"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\release\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\release\\layout\\schedule_later_dialog.xml",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\layout\\schedule_later_dialog.xml"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\release\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\release\\layout\\abc_alert_dialog_material.xml",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\release\\layout\\cb_progressdialog.xml",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\exploded-aar\\UnOrganised\\CustomBrowser-release\\unspecified\\res\\layout\\cb_progressdialog.xml"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\release\\layout\\provider_ongoing_job_fragment.xml",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\layout\\provider_ongoing_job_fragment.xml"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\release\\layout\\switch_user_activity.xml",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\layout\\switch_user_activity.xml"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\release\\layout\\search_job_list_row.xml",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\layout\\search_job_list_row.xml"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\release\\layout\\location_list_row.xml",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\layout\\location_list_row.xml"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\release\\layout\\activity_seeker__info.xml",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\layout\\activity_seeker__info.xml"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\release\\layout\\seeker_completed_job_list_row.xml",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\layout\\seeker_completed_job_list_row.xml"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\release\\layout\\location_display_fragment.xml",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\layout\\location_display_fragment.xml"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\release\\layout\\provider_completed_job_list_row.xml",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\layout\\provider_completed_job_list_row.xml"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\release\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\release\\layout\\disagree_confirm.xml",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\layout\\disagree_confirm.xml"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\release\\layout\\abc_screen_simple.xml",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\release\\layout\\abc_list_menu_item_radio.xml",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\release\\layout\\titlebar_layout.xml",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\layout\\titlebar_layout.xml"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\release\\layout\\jobs_list_fragment.xml",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\layout\\jobs_list_fragment.xml"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\release\\layout\\abc_select_dialog_material.xml",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\release\\layout\\seeker_completed_jobs_fragment.xml",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\layout\\seeker_completed_jobs_fragment.xml"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\release\\layout\\help_fragment.xml",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\layout\\help_fragment.xml"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\release\\layout\\seeker_on_going_job_fragment.xml",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\layout\\seeker_on_going_job_fragment.xml"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\release\\layout\\activity_base.xml",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\exploded-aar\\UnOrganised\\sdkui\\unspecified\\res\\layout\\activity_base.xml"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\release\\layout\\provider_total_app_list_row.xml",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\layout\\provider_total_app_list_row.xml"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\release\\layout\\abc_screen_toolbar.xml",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\release\\layout\\bank.xml",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\exploded-aar\\UnOrganised\\CustomBrowser-release\\unspecified\\res\\layout\\bank.xml"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\release\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\release\\layout\\assigned_job_fragment.xml",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\layout\\assigned_job_fragment.xml"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\release\\layout\\mr_media_route_controller_material_dialog_b.xml",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\22.2.0\\res\\layout\\mr_media_route_controller_material_dialog_b.xml"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\release\\layout\\provider_pending_job_options.xml",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\layout\\provider_pending_job_options.xml"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\release\\layout\\rate_dialog.xml",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\layout\\rate_dialog.xml"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\release\\layout\\job_seeker_dashboard_activity.xml",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\layout\\job_seeker_dashboard_activity.xml"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\release\\layout\\abc_action_menu_layout.xml",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\release\\layout\\abc_screen_content_include.xml",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\release\\layout\\login_activity.xml",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\layout\\login_activity.xml"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\release\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\release\\layout\\payment_gateway_activity.xml",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\layout\\payment_gateway_activity.xml"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\release\\layout\\footer_image.xml",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\exploded-aar\\UnOrganised\\sdkui\\unspecified\\res\\layout\\footer_image.xml"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\release\\layout\\wait_for_otp.xml",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\exploded-aar\\UnOrganised\\CustomBrowser-release\\unspecified\\res\\layout\\wait_for_otp.xml"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\release\\layout\\register_pin.xml",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\exploded-aar\\UnOrganised\\CustomBrowser-release\\unspecified\\res\\layout\\register_pin.xml"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\release\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\release\\layout\\welcome_screen_activity.xml",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\layout\\welcome_screen_activity.xml"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\release\\layout\\loading_activity.xml",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\layout\\loading_activity.xml"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\release\\layout\\refer_a_friend_fragment.xml",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\layout\\refer_a_friend_fragment.xml"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\release\\layout\\seeker_dashboard_activity.xml",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\layout\\seeker_dashboard_activity.xml"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\release\\layout\\spinner_item.xml",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\layout\\spinner_item.xml"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\release\\layout\\abc_action_mode_bar.xml",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\release\\layout\\layout_store_user_cards.xml",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\exploded-aar\\UnOrganised\\sdkui\\unspecified\\res\\layout\\layout_store_user_cards.xml"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\release\\layout\\terms_and_condition_activity.xml",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\layout\\terms_and_condition_activity.xml"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\release\\layout\\provider_pending_jobs.xml",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\layout\\provider_pending_jobs.xml"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\release\\layout\\register.xml",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\exploded-aar\\UnOrganised\\CustomBrowser-release\\unspecified\\res\\layout\\register.xml"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\release\\layout\\cb_prog_dialog.xml",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\exploded-aar\\UnOrganised\\CustomBrowser-release\\unspecified\\res\\layout\\cb_prog_dialog.xml"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\release\\layout\\notification_media_cancel_action.xml",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\release\\layout\\subscribed_fragment.xml",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\layout\\subscribed_fragment.xml"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\release\\layout\\list_single.xml",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\layout\\list_single.xml"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\release\\layout\\activity_personal_info.xml",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\layout\\activity_personal_info.xml"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\release\\layout\\abc_action_menu_item_layout.xml",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\release\\layout\\progress_bar.xml",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\layout\\progress_bar.xml"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\release\\layout\\activity_cash_card.xml",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\exploded-aar\\UnOrganised\\sdkui\\unspecified\\res\\layout\\activity_cash_card.xml"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\release\\layout\\register_activity.xml",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\layout\\register_activity.xml"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\release\\layout\\seeker_on_going_jobs_list_row.xml",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\layout\\seeker_on_going_jobs_list_row.xml"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\release\\layout\\retry_otp.xml",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\exploded-aar\\UnOrganised\\CustomBrowser-release\\unspecified\\res\\layout\\retry_otp.xml"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\release\\layout\\layout_delete_user_cards.xml",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\exploded-aar\\UnOrganised\\sdkui\\unspecified\\res\\layout\\layout_delete_user_cards.xml"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\release\\layout\\user_location.xml",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\layout\\user_location.xml"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\release\\layout\\forgot_password_dialog.xml",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\layout\\forgot_password_dialog.xml"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\release\\layout\\select_dialog_item_material.xml",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\release\\layout\\activity_card.xml",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\exploded-aar\\UnOrganised\\sdkui\\unspecified\\res\\layout\\activity_card.xml"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\release\\layout\\layout_verify_payment.xml",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\exploded-aar\\UnOrganised\\sdkui\\unspecified\\res\\layout\\layout_verify_payment.xml"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\release\\layout\\post_job_activity.xml",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\layout\\post_job_activity.xml"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\release\\layout\\nb_layout.xml",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\exploded-aar\\UnOrganised\\CustomBrowser-release\\unspecified\\res\\layout\\nb_layout.xml"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\release\\layout\\activity_user_cards.xml",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\exploded-aar\\UnOrganised\\sdkui\\unspecified\\res\\layout\\activity_user_cards.xml"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\release\\layout\\pending_job_fragment.xml",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\layout\\pending_job_fragment.xml"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\release\\layout\\mr_media_route_chooser_dialog.xml",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\22.2.0\\res\\layout\\mr_media_route_chooser_dialog.xml"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\release\\layout\\notification_template_big_media_narrow.xml",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\release\\layout\\error_page.xml",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\exploded-aar\\UnOrganised\\CustomBrowser-release\\unspecified\\res\\layout\\error_page.xml"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\release\\layout\\job_outlook_view.xml",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\layout\\job_outlook_view.xml"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\release\\layout\\notification_template_part_time.xml",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\release\\layout\\layout_get_card_information.xml",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\exploded-aar\\UnOrganised\\sdkui\\unspecified\\res\\layout\\layout_get_card_information.xml"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\release\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\release\\layout\\layout_get_user_cards.xml",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\exploded-aar\\UnOrganised\\sdkui\\unspecified\\res\\layout\\layout_get_user_cards.xml"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\release\\layout\\loading.xml",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\exploded-aar\\UnOrganised\\CustomBrowser-release\\unspecified\\res\\layout\\loading.xml"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\release\\layout\\notification_template_lines.xml",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\notification_template_lines.xml"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\release\\layout\\provider_action_bar_custom.xml",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\layout\\provider_action_bar_custom.xml"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\release\\layout\\user_settings_fragment.xml",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\layout\\user_settings_fragment.xml"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\release\\layout\\job_detatils_activity.xml",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\layout\\job_detatils_activity.xml"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\release\\layout\\activity_update_bank_info.xml",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\layout\\activity_update_bank_info.xml"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\release\\layout\\user_setting_view.xml",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\layout\\user_setting_view.xml"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\release\\layout\\sub_services_activity.xml",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\layout\\sub_services_activity.xml"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\release\\layout\\cash_card_list_item.xml",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\exploded-aar\\UnOrganised\\sdkui\\unspecified\\res\\layout\\cash_card_list_item.xml"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\release\\layout\\abc_action_bar_up_container.xml",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\release\\layout\\seeker_location.xml",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\layout\\seeker_location.xml"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\release\\layout\\activity_payments.xml",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\exploded-aar\\UnOrganised\\sdkui\\unspecified\\res\\layout\\activity_payments.xml"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\release\\layout\\job_category_row.xml",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\layout\\job_category_row.xml"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\release\\layout\\choose_action.xml",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\exploded-aar\\UnOrganised\\CustomBrowser-release\\unspecified\\res\\layout\\choose_action.xml"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\release\\layout\\activity_net_banking.xml",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\exploded-aar\\UnOrganised\\sdkui\\unspecified\\res\\layout\\activity_net_banking.xml"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\release\\layout\\exit_confirm.xml",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\layout\\exit_confirm.xml"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\release\\layout\\abc_expanded_menu_layout.xml",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\release\\layout\\layout_get_offer_status.xml",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\exploded-aar\\UnOrganised\\sdkui\\unspecified\\res\\layout\\layout_get_offer_status.xml"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\release\\layout\\activity_verify_api.xml",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\exploded-aar\\UnOrganised\\sdkui\\unspecified\\res\\layout\\activity_verify_api.xml"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\release\\layout\\provider_completed_job_fragment.xml",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\layout\\provider_completed_job_fragment.xml"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\release\\layout\\layout_edit_user_cards.xml",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\exploded-aar\\UnOrganised\\sdkui\\unspecified\\res\\layout\\layout_edit_user_cards.xml"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\release\\layout\\register_type_layout.xml",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\layout\\register_type_layout.xml"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\release\\layout\\notification_media_action.xml",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\release\\layout\\delete_dialog.xml",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\layout\\delete_dialog.xml"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\release\\layout\\activity_change_password.xml",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\layout\\activity_change_password.xml"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\release\\layout\\layout_user_cards.xml",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\exploded-aar\\UnOrganised\\sdkui\\unspecified\\res\\layout\\layout_user_cards.xml"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\release\\layout\\bidding_dialog.xml",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\layout\\bidding_dialog.xml"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\release\\layout\\abc_list_menu_item_layout.xml",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\release\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\release\\layout\\mr_media_route_list_item.xml",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\22.2.0\\res\\layout\\mr_media_route_list_item.xml"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\release\\layout\\layout_get_transaction_information.xml",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\exploded-aar\\UnOrganised\\sdkui\\unspecified\\res\\layout\\layout_get_transaction_information.xml"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\release\\layout\\service_types_activity.xml",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\layout\\service_types_activity.xml"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\release\\layout\\user_card_item.xml",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\exploded-aar\\UnOrganised\\sdkui\\unspecified\\res\\layout\\user_card_item.xml"
+    },
+    {
+        "merged": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\build\\intermediates\\res\\merged\\release\\layout\\action_bar_custom.xml",
+        "source": "D:\\AnushaWork\\Technowise\\Workspace\\Repo\\Source\\Android\\UnOrganised\\unOrganised\\src\\main\\res\\layout\\action_bar_custom.xml"
+    }
+]

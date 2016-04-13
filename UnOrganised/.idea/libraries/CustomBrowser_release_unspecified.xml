@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="CustomBrowser-release-unspecified">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/unOrganised/build/intermediates/exploded-aar/UnOrganised/CustomBrowser-release/unspecified/res" />
+      <root url="jar://$PROJECT_DIR$/unOrganised/build/intermediates/exploded-aar/UnOrganised/CustomBrowser-release/unspecified/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

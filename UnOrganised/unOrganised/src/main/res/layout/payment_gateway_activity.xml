@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/gray">
+    <RelativeLayout
+        android:id="@+id/payment_title_layout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:orientation="vertical" >
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/titlbar"
+            android:gravity="center_vertical|center_horizontal"
+            android:text="@string/payment_details"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textColor="@color/yellow"
+            android:textStyle="bold" />
+    </RelativeLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="@dimen/un_organised_padding"
+        android:layout_below="@id/payment_title_layout"
+        android:orientation="vertical">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginTop="@dimen/activity_vertical_margin"
+            android:text="@string/provide_payment_details"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textColor="@color/black"
+            android:textStyle="bold" />
+        <EditText
+            android:id="@+id/firstname_id"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:layout_marginTop="@dimen/activity_vertical_margin"
+            android:background="#00000000"
+            android:hint="@string/first_name"
+            android:textColor="@color/black"
+            android:inputType="text"
+            android:maxLines="1" >
+        </EditText>
+        <View
+            android:layout_width="fill_parent"
+            android:layout_height="1dp"
+            android:background="@android:color/darker_gray" />
+        <!--<EditText-->
+            <!--android:id="@+id/lastname_id"-->
+            <!--android:layout_width="match_parent"-->
+            <!--android:layout_height="40dp"-->
+            <!--android:layout_marginTop="@dimen/activity_vertical_margin"-->
+            <!--android:background="#00000000"-->
+            <!--android:hint="@string/last_name"-->
+            <!--android:textColor="@color/black"-->
+            <!--android:inputType="text"-->
+            <!--android:maxLines="1" >-->
+        <!--</EditText>-->
+        <View
+            android:layout_width="fill_parent"
+            android:layout_height="1dp"
+            android:background="@android:color/darker_gray" />
+        <EditText
+            android:id="@+id/email_id"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:layout_marginTop="@dimen/activity_vertical_margin"
+            android:background="#00000000"
+            android:hint="@string/email_id"
+            android:textColor="@color/black"
+            android:inputType="textEmailAddress"
+            android:maxLines="1" >
+        </EditText>
+        <View
+            android:layout_width="fill_parent"
+            android:layout_height="1dp"
+            android:background="@android:color/darker_gray" />
+        <EditText
+            android:id="@+id/phone_number_id"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:layout_marginTop="@dimen/activity_vertical_margin"
+            android:background="#00000000"
+            android:hint="@string/mobile_number"
+            android:textColor="@color/black"
+            android:inputType="phone"
+            android:maxLines="1" >
+        </EditText>
+        <View
+            android:layout_width="fill_parent"
+            android:layout_height="1dp"
+            android:background="@android:color/darker_gray" />
+        <EditText
+            android:id="@+id/amount_id"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:layout_marginTop="@dimen/activity_vertical_margin"
+            android:background="#00000000"
+            android:hint="@string/bill_amount"
+            android:textColor="@color/black"
+            android:inputType="none"
+            android:maxLines="1" >
+        </EditText>
+        <View
+            android:layout_width="fill_parent"
+            android:layout_height="1dp"
+            android:background="@android:color/darker_gray" />
+
+    </LinearLayout>
+    <Button
+        android:id="@+id/paynow_btn_id"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/button_selector"
+        android:layout_alignParentBottom="true"
+        android:gravity="center"
+        android:text="@string/pay_now"
+        android:layout_margin="@dimen/un_organised_padding"
+        android:textColor="@color/yellow" />
+
+</RelativeLayout>

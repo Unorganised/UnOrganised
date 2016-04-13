@@ -1,0 +1,183 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/gray"
+    tools:context=".BaseActivity">
+   <RelativeLayout
+       android:layout_width="match_parent"
+       android:layout_height="wrap_content"
+       android:gravity="center"
+       android:background="@drawable/titlbar">
+       <TextView
+           android:layout_width="wrap_content"
+           android:layout_height="wrap_content"
+           android:textAppearance="?android:textAppearanceMedium"
+           android:textStyle="bold"
+           android:textColor="@color/yellow"
+           android:text="@string/select_payment"/>
+   </RelativeLayout>
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_margin="5dp">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_gravity="center_vertical">
+
+            <ProgressBar
+                android:id="@+id/progress_bar"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_gravity="center_vertical"
+                android:visibility="visible" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="vertical"
+                android:padding="20dp">
+
+               <!-- <LinearLayout
+                    android:id="@+id/linear_layout_stored_card"
+                    android:layout_width="match_parent"
+                    android:layout_height="0dp"
+                    android:layout_weight="1"
+                    android:paddingBottom="10dp"
+                    android:visibility="gone">
+
+                    <Button
+                        android:id="@+id/button_stored_card"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="Stored card"
+                        android:textSize="17sp" />
+
+                </LinearLayout>-->
+
+                <LinearLayout
+                    android:id="@+id/linear_layout_netbanking"
+                    android:layout_width="match_parent"
+                    android:layout_height="0dp"
+                    android:layout_weight="1"
+                    android:visibility="gone"
+                    android:paddingBottom="10dp">
+
+                    <Button
+                        android:id="@+id/button_netbanking"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:background="@drawable/button_selector"
+                        android:textColor="@color/yellow"
+                        android:text="@string/net_banking" />
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:id="@+id/linear_layout_credit_debit_card"
+                    android:layout_width="match_parent"
+                    android:layout_height="0dp"
+                    android:layout_weight="1"
+                    android:visibility="gone"
+                    android:paddingBottom="10dp">
+
+                    <Button
+                        android:id="@+id/button_credit_debit_card"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:background="@drawable/button_selector"
+                        android:textColor="@color/yellow"
+                        android:text="Credit / Debit card"/>
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:id="@+id/linear_layout_cash_card"
+                    android:layout_width="match_parent"
+                    android:layout_height="0dp"
+                    android:layout_weight="1"
+                    android:visibility="gone"
+                    android:paddingBottom="10dp">
+
+                    <Button
+                        android:id="@+id/button_cash_card"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:background="@drawable/button_selector"
+                        android:textColor="@color/yellow"
+                        android:text="Cash Card" />
+                </LinearLayout>
+
+                <!--<LinearLayout-->
+                    <!--android:id="@+id/linear_layout_emi"-->
+                    <!--android:layout_width="match_parent"-->
+                    <!--android:layout_height="0dp"-->
+                    <!--android:layout_weight="1"-->
+                    <!--android:paddingBottom="10dp">-->
+
+                    <!--<Button-->
+                        <!--android:id="@+id/button_emi"-->
+                        <!--android:layout_width="match_parent"-->
+                        <!--android:layout_height="wrap_content "-->
+                        <!--android:text="EMI" />-->
+                <!--</LinearLayout>-->
+
+                <LinearLayout
+                    android:id="@+id/linear_layout_payumoney"
+                    android:layout_width="match_parent"
+                    android:layout_height="0dp"
+                    android:layout_weight="1"
+                    android:visibility="gone"
+                    android:paddingBottom="10dp">
+
+                    <Button
+                        android:id="@+id/button_payumoney"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:background="@drawable/button_selector"
+                        android:textColor="@color/yellow"
+                        android:text="PayU Money"/>
+                </LinearLayout>
+
+               <!-- <LinearLayout
+                    android:id="@+id/linear_layout_merchant_payment"
+                    android:layout_width="match_parent"
+                    android:layout_height="0dp"
+                    android:layout_weight="1"
+                    android:paddingBottom="10dp"
+                    android:visibility="gone">
+
+                    <Button
+                        android:id="@+id/button_merchant_payment"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="Merchant Payment"
+                        android:textSize="17sp" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:id="@+id/linear_layout_verify_api"
+                    android:layout_width="match_parent"
+                    android:layout_height="0dp"
+                    android:layout_weight="1"
+                    android:paddingBottom="10dp"
+                    android:visibility="gone">
+
+                    <Button
+                        android:id="@+id/button_verify_api"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="Verify Api"
+                        android:textSize="17sp" />
+
+                </LinearLayout>-->
+            </LinearLayout>
+
+        </RelativeLayout>
+
+    </ScrollView>
+</LinearLayout>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/gray">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_above="@+id/setting_logout">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <!--<LinearLayout-->
+            <!--android:id="@+id/list_layout"-->
+            <!--android:layout_width="match_parent"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:layout_marginLeft="@dimen/un_organised_padding"-->
+            <!--android:layout_marginRight="@dimen/un_organised_padding"-->
+            <!--android:layout_marginTop="@dimen/activity_vertical_margin"-->
+            <!--android:background="@color/white">-->
+
+            <ListView
+                android:id="@+id/setting_list"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="@dimen/un_organised_padding" />
+        </LinearLayout>
+    </ScrollView>
+
+    <LinearLayout
+        android:id="@+id/setting_logout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:paddingBottom="@dimen/text_top_margin"
+        >
+
+        <FrameLayout
+
+            android:layout_width="match_parent"
+            android:layout_height="60dp"
+            android:layout_marginLeft="@dimen/un_organised_padding"
+            android:layout_marginRight="@dimen/un_organised_padding"
+            android:background="@color/green"
+            android:orientation="horizontal"
+            android:paddingBottom="@dimen/text_top_margin"
+            android:paddingTop="@dimen/text_top_margin">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="start"
+                android:layout_marginLeft="@dimen/un_organised_padding"
+                android:gravity="center_horizontal|center_vertical"
+                android:text="@string/logout"
+                android:textAppearance="?android:attr/textAppearanceSmall"
+                android:textColor="@color/yellow" />
+
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="end"
+                android:layout_marginRight="@dimen/un_organised_padding"
+                android:src="@drawable/yellow_arrow" />
+        </FrameLayout>
+
+    </LinearLayout>
+
+
+</RelativeLayout>

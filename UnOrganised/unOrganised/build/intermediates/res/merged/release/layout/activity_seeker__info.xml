@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/gray"
+    tools:context=".activities.SeekerInfoActivity">
+
+    <RelativeLayout
+        android:id="@+id/Info_title_layout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:orientation="vertical"
+        android:paddingBottom="@dimen/un_organised_padding">
+
+        <TextView
+
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/titlbar"
+            android:gravity="center_vertical|center_horizontal"
+            android:text="@string/seeker_info"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textColor="@color/yellow"
+            android:textStyle="bold" />
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/title"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/Info_title_layout"
+        android:layout_marginTop="@dimen/activity_vertical_margin">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:text="@string/add_information"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textColor="@color/black" />
+
+    </RelativeLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/title"
+        android:orientation="vertical">
+
+        <FrameLayout
+            android:id="@+id/add_detailslayout"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="@dimen/activity_horizontal_margin"
+            android:background="@drawable/border_layout"
+            android:gravity="center_horizontal|center_vertical">
+
+            <EditText
+                android:id="@+id/add_info_seeker"
+                android:layout_width="match_parent"
+                android:layout_height="150dp"
+                android:background="#00000000"
+                android:gravity="top|left"
+                android:maxLength="100"
+                android:padding="@dimen/un_organised_padding"
+                android:textColor="@color/black" />
+
+        </FrameLayout>
+
+        <RelativeLayout
+            android:id="@+id/count_layout"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/add_detailslayout"
+            android:layout_marginRight="@dimen/un_organised_padding">
+
+            <TextView
+                android:id="@+id/character"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_toLeftOf="@+id/char_txt"
+                android:text="@string/max_character"
+                android:textColor="@color/black" />
+
+            <TextView
+                android:id="@+id/char_txt"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:layout_marginLeft="@dimen/un_organised_padding"
+                android:text="@string/string_count"
+                android:textColor="@color/black"
+
+                />
+        </RelativeLayout>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="@dimen/un_organised_padding"
+        android:paddingLeft="@dimen/un_organised_padding"
+        android:paddingRight="@dimen/un_organised_padding">
+
+        <Button
+            android:id="@+id/add"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="@dimen/button_right_margin"
+            android:layout_weight="1"
+            android:background="@drawable/button_selector"
+            android:text="@string/add_details"
+            android:textColor="@color/yellow"
+            android:textStyle="bold" />
+
+        <Button
+            android:id="@+id/back"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="@dimen/button_right_margin"
+            android:layout_weight="1"
+            android:background="@drawable/button_selector"
+            android:text="@string/back"
+            android:textColor="@color/yellow"
+            android:textStyle="bold"
+            android:visibility="gone" />
+
+        <Button
+            android:id="@+id/cancel"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="@drawable/button_selector"
+            android:text="@string/cancel"
+            android:textColor="@color/yellow"
+            android:textStyle="bold" />
+    </LinearLayout>
+</RelativeLayout>

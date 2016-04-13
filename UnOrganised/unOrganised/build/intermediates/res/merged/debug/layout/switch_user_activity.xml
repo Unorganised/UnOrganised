@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/splash">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:gravity="center_horizontal"
+        android:layout_margin="@dimen/un_organised_margin">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center_horizontal"
+            android:text="@string/registered_user_title"
+            android:textColor="@color/yellow"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:textStyle="bold"
+            android:layout_marginLeft="@dimen/fullname_top_margin"
+            android:layout_marginTop="@dimen/fullname_top_margin"
+            android:layout_marginRight="@dimen/fullname_top_margin"
+            android:layout_marginBottom="@dimen/activity_vertical_margin" />
+
+        <LinearLayout
+            android:id="@+id/layout_seeker"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/custom_border"
+            android:layout_marginTop="@dimen/text_top_margin">
+
+            <ImageView
+                android:id="@+id/seeker_icon_id"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="@dimen/activity_vertical_margin"
+                android:layout_marginLeft="@dimen/text_left_margin"
+                android:layout_marginRight="@dimen/text_right_margin"
+                android:layout_marginTop="@dimen/activity_vertical_margin"
+                android:src="@drawable/icn_seeker_onselect" />
+
+            <View
+                android:id="@+id/seeker_div_id"
+                android:layout_width="1dp"
+                android:layout_height="40dp"
+                android:layout_gravity="center"
+                android:layout_marginRight="@dimen/text_right_margin"
+                android:background="@android:color/white" />
+
+            <TextView
+                android:id="@+id/seeker_text_id"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_marginLeft="@dimen/text_left_margin"
+                android:text="@string/job_seeker_title_"
+                android:textAllCaps="true"
+                android:textColor="@android:color/white"
+                android:textStyle="bold" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/layout_provider"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/custom_border"
+            android:layout_marginTop="@dimen/activity_vertical_margin">
+
+            <ImageView
+                android:id="@+id/provider_icon_id"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="@dimen/activity_vertical_margin"
+                android:layout_marginLeft="@dimen/text_left_margin"
+                android:layout_marginRight="@dimen/text_right_margin"
+                android:layout_marginTop="@dimen/activity_vertical_margin"
+                android:src="@drawable/icn_provider_onselect" />
+
+            <View
+                android:id="@+id/provider_div_id"
+                android:layout_width="1dp"
+                android:layout_height="40dp"
+                android:layout_gravity="center"
+                android:layout_marginLeft="@dimen/button_left_margin"
+                android:layout_marginRight="@dimen/text_right_margin"
+                android:background="@android:color/white" />
+
+            <TextView
+                android:id="@+id/provider_text_id"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_marginLeft="@dimen/text_left_margin"
+                android:text="@string/job_provider_title"
+                android:textAllCaps="true"
+                android:textColor="@android:color/white"
+                android:textStyle="bold" />
+        </LinearLayout>
+
+    </LinearLayout>
+
+
+</LinearLayout>

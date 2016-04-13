@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/white">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="@dimen/un_organised_padding"
+        android:orientation="vertical"
+        android:gravity="center"
+        android:id="@+id/linearLayout">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:layout_marginTop="@dimen/text_top_margin"
+            android:layout_marginBottom="@dimen/text_bottom_margin"
+            android:textColor="@color/green"
+            android:text="@string/increase_bid_amount"/>
+        <View
+            android:layout_width="fill_parent"
+            android:layout_height="1dp"
+            android:background="@color/green" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/bidding_price"
+            android:layout_marginTop="@dimen/text_top_margin"
+            android:textColor="@color/black"
+            android:id="@+id/bill_amount_id" />
+        <EditText
+            android:id="@+id/price_text_id"
+            android:layout_width="wrap_content"
+            android:layout_height="40dp"
+            android:layout_marginTop="@dimen/text_top_margin"
+            android:background="#00000000"
+            android:hint="@string/enter_accnt_number"
+            android:inputType="number"
+            android:maxLines="1"
+            android:gravity="center"
+            android:singleLine="true" />
+        <View
+            android:layout_width="fill_parent"
+            android:layout_height="1dp"
+            android:background="@android:color/darker_gray" />
+
+        <Button
+            android:id="@+id/ok_button_id"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="@dimen/un_organised_margin"
+            android:background="@drawable/btn_bg"
+            android:text="@string/ok"
+            android:textColor="@color/yellow"
+            android:textStyle="bold" />
+
+</LinearLayout>
+
+
+</RelativeLayout>
